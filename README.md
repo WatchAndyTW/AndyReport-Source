@@ -1,5 +1,5 @@
 # AndyReport-Source
-A 
+A simple plugin can let you report player and send the report to discord channel!
 ## Features
   * Easy to setup!
   * Easy to report
